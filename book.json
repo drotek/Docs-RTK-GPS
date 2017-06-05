@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "custom-favicon",
+		
+		"language-picker",
+	    "header"
+        
+    ],
+    
+    "pluginsConfig":
+    {
+        "favicon": "favicon.ico",
+	    "layout": {
+			"headerPath" : "layouts/website/header.html"
+	    }
+        
+    }
+}
